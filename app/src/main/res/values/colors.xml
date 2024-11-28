@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="primary_500">#FFE21221</color>
+    <color name="primary_400">#FFE8414D</color>
+    <color name="primary_300">#FFEE717A</color>
+    <color name="primary_200">#FFF3A0A6</color>
+    <color name="primary_100">#FFFCE7E9</color>
+
+    <color name="secondary_500">#FFFFD300</color>
+
+    <color name="success">#FF4ADE80</color>
+    <color name="info">#FF246BFD</color>
+    <color name="warning">#FFFACC15</color>
+    <color name="error">#FFF75555</color>
+    <color name="disabled">#FFD8D8D8</color>
+    <color name="disabled_button">#FFC1232F</color>
+
+    <color name="greyscale_900">#FF212121</color>
+    <color name="greyscale_800">#FF424242</color>
+    <color name="greyscale_700">#FF616161</color>
+    <color name="greyscale_600">#FF757575</color>
+    <color name="greyscale_500">#FF9E9E9E</color>
+    <color name="greyscale_400">#FFBDBDBD</color>
+    <color name="greyscale_300">#FFE0E0E0</color>
+    <color name="greyscale_200">#FFEEEEEE</color>
+    <color name="greyscale_100">#FFF5F5F5</color>
+    <color name="greyscale_50">#FFFAFAFA</color>
+
+    <color name="dark_1">#FF181A20</color>
+    <color name="dark_2">#FF1F222A</color>
+    <color name="dark_3">#FF35383F</color>
+
+    <color name="transparent_red">#14E21221</color>
 
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
