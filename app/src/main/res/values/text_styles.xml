@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- headings -->
+
+    <style name="heading_bold">
+        <item name="android:textColor">@color/greyscale_900</item>
+        <item name="android:fontFamily">@font/urbanist_bold</item>
+    </style>
+
+    <style name="h1_bold" parent="@style/heading_bold">
+        <item name="android:textSize">48sp</item>
+    </style>
+
+    <style name="h2_bold" parent="@style/heading_bold">
+        <item name="android:textSize">40sp</item>
+    </style>
+
+    <style name="h3_bold" parent="@style/heading_bold">
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="h4_bold" parent="@style/heading_bold">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="h5_bold" parent="@style/heading_bold">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="h6_bold" parent="@style/heading_bold">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- body xlarge -->
+
+    <style name="body_xlarge">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/greyscale_900</item>
+    </style>
+
+    <style name="body_xlarge_regular" parent="@style/body_xlarge">
+        <item name="android:fontFamily">@font/urbanist_regular</item>
+    </style>
+
+    <style name="body_xlarge_medium" parent="@style/body_xlarge">
+        <item name="android:fontFamily">@font/urbanist_medium</item>
+    </style>
+
+    <style name="body_xlarge_semibold" parent="@style/body_xlarge">
+        <item name="android:fontFamily">@font/urbanist_semibold</item>
+    </style>
+
+    <style name="body_xlarge_bold" parent="@style/body_xlarge">
+        <item name="android:fontFamily">@font/urbanist_bold</item>
+    </style>
+
+    <!-- body large -->
+
+    <style name="body_large">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/greyscale_900</item>
+    </style>
+
+    <style name="body_large_regular" parent="@style/body_large">
+        <item name="android:fontFamily">@font/urbanist_regular</item>
+    </style>
+
+    <style name="body_large_medium" parent="@style/body_large">
+        <item name="android:fontFamily">@font/urbanist_medium</item>
+    </style>
+
+    <style name="body_large_semibold" parent="@style/body_large">
+        <item name="android:fontFamily">@font/urbanist_semibold</item>
+    </style>
+
+    <style name="body_large_bold" parent="@style/body_large">
+        <item name="android:fontFamily">@font/urbanist_bold</item>
+    </style>
+
+    <!-- body medium -->
+
+    <style name="body_medium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/greyscale_900</item>
+    </style>
+
+    <style name="body_medium_regular" parent="@style/body_medium">
+        <item name="android:fontFamily">@font/urbanist_regular</item>
+    </style>
+
+    <style name="body_medium_medium" parent="@style/body_medium">
+        <item name="android:fontFamily">@font/urbanist_medium</item>
+    </style>
+
+    <style name="body_medium_semibold" parent="@style/body_medium">
+        <item name="android:fontFamily">@font/urbanist_semibold</item>
+    </style>
+
+    <style name="body_medium_bold" parent="@style/body_medium">
+        <item name="android:fontFamily">@font/urbanist_bold</item>
+    </style>
+
+    <!-- body small -->
+
+    <style name="body_small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/greyscale_900</item>
+    </style>
+
+    <style name="body_small_regular" parent="@style/body_small">
+        <item name="android:fontFamily">@font/urbanist_regular</item>
+    </style>
+
+    <style name="body_small_medium" parent="@style/body_small">
+        <item name="android:fontFamily">@font/urbanist_medium</item>
+    </style>
+
+    <style name="body_small_semibold" parent="@style/body_small">
+        <item name="android:fontFamily">@font/urbanist_semibold</item>
+    </style>
+
+    <style name="body_small_bold" parent="@style/body_small">
+        <item name="android:fontFamily">@font/urbanist_bold</item>
+    </style>
+
+    <!-- body xsmall -->
+
+    <style name="body_xsmall">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/greyscale_900</item>
+    </style>
+
+    <style name="body_xsmall_regular" parent="@style/body_xsmall">
+        <item name="android:fontFamily">@font/urbanist_regular</item>
+    </style>
+
+    <style name="body_xsmall_medium" parent="@style/body_xsmall">
+        <item name="android:fontFamily">@font/urbanist_medium</item>
+    </style>
+
+    <style name="body_xsmall_semibold" parent="@style/body_xsmall">
+        <item name="android:fontFamily">@font/urbanist_semibold</item>
+    </style>
+
+    <style name="body_xsmall_bold" parent="@style/body_xsmall">
+        <item name="android:fontFamily">@font/urbanist_bold</item>
+    </style>
+
+</resources>
